@@ -3,17 +3,17 @@
     {
       "name": "Jorge Eduardo",
       "designation": "Um cargo legal",
-      "image": "ic_member_faisal"
+      "image": "ic_member_jorge"
     },
     {
       "name": "Fernando",
       "designation": "Um cargo bacana",
-      "image": "ic_member_suraiya"
+      "image": "ic_member_fernando"
     },
     {
       "name": "Lennon Jesus",
       "designation": "Outro cargo bacana",
-      "image": "ic_member_siddiq"
+      "image": "ic_member_lennon"
     }
   ]
 }
