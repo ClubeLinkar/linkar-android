@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "Smartphone",
+      "image": "img_home_1",
+      "project_info": [
+        {
+          "platform": "Android",
+          "url": "http://play.google.com/store/apps/details?id=com.audacityit.amarphonebook"
+        },
+        {
+          "platform": "iOS",
+          "url": "https://itunes.apple.com/us/app/amar-phonebook-bangladeshs/id1044979290?mt=8"
+        }
+      ]
+    },
+    {
+      "name": "Livros",
+      "image": "img_home_2",
+      "project_info": [
+        {
+          "platform": "Android",
+          "url": "https://play.google.com/store/apps/details?id=com.audacityit.coloursfm"
+        }
+      ]
+    },
+    {
+      "name": "Cursos de informática",
+      "image": "img_home_3",
+      "project_info": [
+        {
+          "platform": "Website",
+          "url": "http://www.monasalearning.com"
+        }
+      ]
+    },
+    {
+      "name": "Pacotes turísticos",
+      "image": "img_home_4",
+      "project_info": [
+        {
+          "platform": "Website",
+          "url": "http://www.lockdealsapp.com"
+        },
+        {
+          "platform": "Android",
+          "url": "https://play.google.com/store/apps/details?id=com.audacityit.lockdeals"
+        }
+      ]
+    }
+  ]
+}

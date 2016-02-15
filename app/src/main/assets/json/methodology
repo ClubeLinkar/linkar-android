@@ -1,0 +1,23 @@
+{
+  "methodology": {
+    "company_icon": "logo",
+    "background_image": "img_nav_header",
+    "methodology_info": [
+      {
+        "image": "ic_methodology_1",
+        "heading": "ESCOLHA",
+        "description": "Escolha e reserve sua oferta no app ou no site."
+      },
+      {
+        "image": "ic_methodology_2",
+        "heading": "PAGUE",
+        "description": "Pague direto na loja e acumule pontos."
+      },
+      {
+        "image": "ic_methodology_3",
+        "heading": "TROQUE",
+        "description": "Troque seus pontos por outras ofertas."
+      }
+    ]
+  }
+}

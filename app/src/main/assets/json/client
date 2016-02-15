@@ -1,0 +1,44 @@
+{
+  "clients": [
+    {
+      "client_name": "UNESA",
+      "delegate_name": "Universidade Estácio de Sá - LTDA",
+      "country": "Campo Grande",
+      "image": "img_client_3",
+      "project_info": [
+        {
+          "platform": "Website",
+          "url": "http://www.estacio.br"
+        }
+      ]
+    },
+    {
+      "client_name": "Kartódromo Volta Redonda",
+      "delegate_name": "Kart VR LTDA.",
+      "country": "Volta Redonda - RJ",
+      "image": "img_client_4",
+      "project_info": [
+        {
+          "platform": "Android",
+          "url": "play.google.com/store/apps/details?id"
+        },
+        {
+          "platform": "iOS",
+          "url": "https://itunes.apple.com/us/app//?mt=8"
+        }
+      ]
+    },
+    {
+      "client_name": "All Motos",
+      "delegate_name": "All Motos Ltda",
+      "country": "Copacabana",
+      "image": "img_client_5",
+      "project_info": [
+        {
+          "platform": "Website",
+          "url": "http://www.allmotos.com.br"
+        }
+      ]
+    }
+  ]
+}

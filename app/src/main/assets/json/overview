@@ -1,0 +1,44 @@
+{
+  "overview": {
+    "company_icon": "logo",
+    "background_image": "img_overview_parallax",
+    "company_name": "Linkar",
+    "company_tag": "Sua loja colaborativa",
+    "counter_info": [
+      {
+        "number": "751+",
+        "text": "Produtos"
+      },
+      {
+        "number": "50",
+        "text": "Parceiros"
+      },
+      {
+        "number": "5000+",
+        "text": "Clientes"
+      }
+    ],
+    "basic_info": [
+      {
+        "title": "Centenas de produtos",
+        "body": "São vários produtos e serviços à sua disposição",
+        "image": "ic_overview_basic"
+      },
+      {
+        "title": "Diversos parceiros",
+        "body": "Cada vez mais pareceiros disponibilizando seus produtos e serviços conosco",
+        "image": "ic_overview_skill"
+      },
+      {
+        "title": "Tá na mão de todo mundo",
+        "body": "A cada dia que passa, mais e mais usuários estão se cadastrando, comprando e aproveitando os benefícios Linkar",
+        "image": "ic_overview_infrastructure"
+      },
+      {
+        "title": "Onde estamos",
+        "body": "Endereço da Linkar, 1234, Centro, Rio de Janeiro - RJ, 20.051-070",
+        "image": "ic_overview_location"
+      }
+    ]
+  }
+}

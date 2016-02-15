@@ -1,0 +1,19 @@
+{
+  "team": [
+    {
+      "name": "Jorge Eduardo",
+      "designation": "Um cargo legal",
+      "image": "ic_member_faisal"
+    },
+    {
+      "name": "Fernando",
+      "designation": "Um cargo bacana",
+      "image": "ic_member_suraiya"
+    },
+    {
+      "name": "Lennon Jesus",
+      "designation": "Outro cargo bacana",
+      "image": "ic_member_siddiq"
+    }
+  ]
+}
